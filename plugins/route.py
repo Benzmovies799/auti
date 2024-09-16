@@ -17,7 +17,7 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response("Subscribe My Channel @AmRobots_Bots")
+    return web.json_response("Subscribe My Channel @Benzmovies")
 
 @routes.get(r"/watch/{path:\S+}", allow_head=True)
 async def stream_handler(request: web.Request):
