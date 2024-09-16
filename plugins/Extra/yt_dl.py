@@ -48,7 +48,7 @@ async def song(client, message):
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
 
-        cap = "**BY›› [AMROBOTS NETWORKS™](https://t.me/AmRobots_Bots)**"
+        cap = "**BY›› [BENZMOVIES™](https://t.me/Benzmovies)**"
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
