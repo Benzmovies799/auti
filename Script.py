@@ -89,9 +89,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Am_Robots>☢ᴀᴍ ʀᴏʙᴏᴛꜱ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Benzmovies>☢ᴀᴍ ʀᴏʙᴏᴛꜱ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/AmRobots_Bots>☢Join ᴍʏ ᴜᴘᴅᴀᴛᴇᴅꜱ☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Benzmovies>☢Join ᴍʏ ᴜᴘᴅᴀᴛᴇᴅꜱ☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -303,7 +303,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  </b>""" 
 
     PROGRESS_BAR = """\n
-╭━━━━❰ Tech AMROBOTS Renaming... ❱━➣
+╭━━━━❰ Tech Benzmovies Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -430,7 +430,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🗄️ sᴇʀᴠᴇʀ - <a href=https://t.me/Amrobots_Bots>ᴀᴍʀᴏʙᴏᴛs</a></b>
+🗄️ sᴇʀᴠᴇʀ - <a href=https://t.me/Benzmovies>Benzmovies</a></b>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v3.0.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
@@ -682,13 +682,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Am_Robots'>ᴀᴍ ʀᴏʙᴏᴛꜱ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Benzmovies'>Benzmovies</a>
 
--Dev 2 <a href='https://t.me/Am_Robots'>ᴀᴍ ʀᴏʙᴏᴛꜱ</a>
+-Dev 2 <a href='https://t.me/Benzmovies'>Benzmovies</a>
 
--Dev 3 <a href='https://t.me/AmRobots_Bots>ᴀᴍʀᴏʙᴏᴛs</a>
+-Dev 3 <a href='https://t.me/Benzmovies>Benzmovies</a>
 
-- Dev 4 <a href='https://t.me/AmRobots_Bots'>ᴀᴍʀᴏʙᴏᴛs</a>
+- Dev 4 <a href='https://t.me/Benzmovies'>Benzmovies</a>
 """
 
     RENAME_TXT = """
