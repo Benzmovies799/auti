@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/fca1996697ea6657b68ea.png" alt="AMROBOTS-Filter-Bot Logo">
+  <img src="https://graph.org/file/2d20cb938f67aa3f94876.jpg" alt="BENZMOVIES-Filter-Bot Logo">
 </p>
 <h1 align="center">
   AMROBOTS FILTER BOT
@@ -32,7 +32,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/AmRobots_Bots'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/Benzmovies'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/k_MzLzeDE68)
 
