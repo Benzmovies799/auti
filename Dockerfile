@@ -10,7 +10,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /AMROBOTS-FILTER-BOT
-WORKDIR /AMROBOTS-FILTER-BOT
-COPY . /AMROBOTS-FILTER-BOT
+RUN mkdir /BENZMOVIES-FILTER-BOT
+WORKDIR /BENZMOVIES-FILTER-BOT
+COPY . /BENZMOVIES-FILTER-BOT
 CMD ["python", "bot.py"]
