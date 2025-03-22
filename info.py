@@ -72,7 +72,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'benzmawabot') # owner username w
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+xXTTgPD9oa02ZTll')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/benzmovies')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtosolvelinks/4')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtosolvelinks/2')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+xXTTgPD9oa02ZTll') # Support Chat Link Without https:// or @
 
 # True Or False
