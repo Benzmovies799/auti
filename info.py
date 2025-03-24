@@ -138,7 +138,7 @@ STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
 MULTI_CLIENT = False
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
-URL = environ.get("URL", "http://vps.hostingup.icu:9083") # If U Use HostingUp VPS Server Then U Will Recive In Mail Domain Name If U Have Own Domain Name Then U Can Add
+URL = environ.get("URL", "https://suitable-luce-north1211-015c688f.koyeb.app/") # If U Use HostingUp VPS Server Then U Will Recive In Mail Domain Name If U Have Own Domain Name Then U Can Add
 if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
